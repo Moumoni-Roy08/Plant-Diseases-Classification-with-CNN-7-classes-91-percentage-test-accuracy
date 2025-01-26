@@ -1,7 +1,5 @@
 # Plant-Diseases-Classification-with-CNN-7-classes-91-percentage-test-accuracy
 
-# Multiclass Classification of Plant Diseases with Convolutional Neural Networks: Achieving 91% Accuracy for Early Detection in Agriculture
-
 ## Introduction
 Plant disease detection plays a crucial role in agriculture, as early identification enables timely preventive measures, minimizes crop losses, and promotes better productivity. In this project, we aimed to develop a deep learning model based on Convolutional Neural Networks (CNN) to classify plant diseases. By utilizing a multiclass classification approach, this model can assist agricultural professionals in detecting diseases early, facilitating rapid interventions to safeguard crops.
 
